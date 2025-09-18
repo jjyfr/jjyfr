@@ -11,6 +11,9 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/jjyfr/threat-hunting-scenario-tor)**
 
+## 📢 Incident Response
+- **[Brute Force Attack Scenario (Microsoft Senteniel)](https://github.com/jjyfr/Brute-Force-Attack-Scenario-Microsoft-Senteniel-)**
+
 <hr/>
 
 
